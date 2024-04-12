@@ -1,0 +1,6 @@
+# environment variable
+# containts OpenAI API KEY
+.env
+
+Pipfile
+Pipefile.lock
